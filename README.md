@@ -128,7 +128,6 @@ I'm **Resten Madzalo**, a **Software Developer** passionate about building scala
         <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-   
     <td align="center" width="96">
         <img src="https://insomnia.rest/images/insomnia-logo.svg" width="48" height="48" alt="Insomnia" />
       <br>Insomnia
