@@ -16,11 +16,7 @@ alt="👋 Hi there! I'm Resten" title="👋 Hi there! I'm Resten"/>
 </p>
 <br/>
 
-I'm **Resten Madzalo**, a **Software Developer** passionate about building scalable web and mobile applications. I specialize in frontend and backend development, cloud computing, and modern DevOps practices.
-
-I’m always learning new things and optimizing existing solutions to make them more efficient. Let’s connect and collaborate!
-
----
+I'm **Resten Madzalo**, a **Software Developer** passionate about building scalable web and mobile applications. I specialize in frontend and backend development, cloud computing, and modern DevOps practices.I’m always learning new things and optimizing existing solutions to make them more efficient. Let’s connect and collaborate!
 
 ## My Favorite Tools and Technologies ⚙️
 
