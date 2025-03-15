@@ -64,11 +64,7 @@ I’m always learning new things and optimizing existing solutions to make them 
         <img src="https://reactnative.dev/img/header_logo.svg" width="44" height="44" alt="React Native" />
       <br>React Native
     </td>
-    
   </tr>
-</table>
-
-<table>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
@@ -107,9 +103,6 @@ I’m always learning new things and optimizing existing solutions to make them 
       <br>MongoDB
     </td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
