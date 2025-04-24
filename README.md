@@ -148,7 +148,7 @@ I'm **Resten Madzalo**, a **Software Developer** passionate about building scala
         <img src="https://github-profile-roan.vercel.app/api/top-langs/?username=madzalo&layout=compact&theme=tokyonight" />
       </td>
       <td align="center">
-        <img src="https://github-profile-roan.vercel.app/api?username=madzalo&show_icons=true&rank_icon=github&theme=tokyonight&hide=contribs,prs" />
+        <img src="https://github-profile-roan.vercel.app/api?username=madzalo&show_icons=true&rank_icon=github&theme=tokyonight&hide=issues&include_all_commits=true&count_private=true" />
       </td>
     </tr>
   </table>
