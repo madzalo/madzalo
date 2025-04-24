@@ -138,3 +138,24 @@ I'm **Resten Madzalo**, a **Software Developer** passionate about building scala
     </td>
   </tr>
 </table>
+
+<h2 align="center">📊 GitHub Overview</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-profile-roan.vercel.app/api/top-langs/?username=madzalo&layout=compact&theme=tokyonight" />
+      </td>
+      <td align="center">
+        <img src="https://github-profile-roan.vercel.app/api?username=madzalo&show_icons=true&rank_icon=github&theme=tokyonight&hide=contribs,prs" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <a href="https://github.com/madzalo">
+    <img src="https://komarev.com/ghpvc/?username=madzalo&color=brightgreen&style=flat" alt="Profile views" />
+  </a>
+</p>
